@@ -1,10 +1,12 @@
 body {
-    background-color: pink
+    background-color: #ffb6c1;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #333;
 }
-
 .container {
-    background-color: lightskyblue;
-    color: black border: 10px;
-    padding: 20px;
-
+    padding: 10px;
+    border-radius: 4px;
 }
